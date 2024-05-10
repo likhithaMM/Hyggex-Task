@@ -14,7 +14,7 @@ const Navbar = () => {
         <li className='p-4 cursor-pointer'>Flashcard</li>
         <li className='p-4 cursor-pointer'>Contact</li>
         <li className='p-4 cursor-pointer'>FAQ</li>
-        <div className="bg-gradient-to-r from-blue-900 to-blue-400  rounded-3xl justify-center items-center flex px-[2.5rem] h-[2.5rem] cursor-pointer" style={{backgroundImage: 'linear-gradient(to bottom, #06286E, #164EC0)'}}>
+        <div className=" ml-[1rem] bg-gradient-to-r from-blue-900 to-blue-400  rounded-3xl justify-center items-center flex px-[2.5rem] h-[2.5rem] cursor-pointer" style={{backgroundImage: 'linear-gradient(to bottom, #06286E, #164EC0)'}}>
               <p className="text-white">Login</p>
         </div>
       </ul>
