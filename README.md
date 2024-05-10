@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+You need to create a react app using command 
+### `npx create-react-app my-app`
 
 In the project directory, you can run:
 
